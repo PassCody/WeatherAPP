@@ -11,8 +11,8 @@ Goal is to write with the Open Weather API an Open Source Weather App.
 To use this project, you can follow these steps:
 
 1. Clone the repository:
-   ```sh git clone https://github.com/PassCody/WeatherAPP.git```
-   ```sh git clone https://github.com/PassCody/AutoBootStrapLoader.git```
+   ```sh git clone https://github.com/PassCody/WeatherAPP.git```<br>
+   ```sh git clone https://github.com/PassCody/AutoBootStrapLoader.git```<br>
 2. Merging:
    Merge the Libraries Folder to the WeatherAPP Directory
 3. Finish:
