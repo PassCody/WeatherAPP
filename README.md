@@ -12,12 +12,7 @@ To use this project, you can follow these steps:
 
 1. Clone the following repositories:<br>
    ```sh git clone https://github.com/PassCody/WeatherAPP.git```<br>
-   ```sh git clone https://github.com/PassCody/AutoBootStrapLoader.git```<br>
-2. Merging:<br>
-   Merge the Libraries Folder to the WeatherAPP Directory<br>
-3. Finish:<br>
-   The Project is Programmed to include automaticly the BootStrap Folder in to the Page.<br>
-   Nothing else to do.<br>
+2. Finish!
 
 # License
 This project is licensed under the MIT License. Please review the license file for more details.
